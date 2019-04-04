@@ -22,11 +22,13 @@ or
 
 
 ### api
-* startDate
+* startDate 
+> This command lightens the Contribution of the day
 ```
 	gayhub 20121229
 ```
-* endDate
+*  startDate endDate
+> This command illuminates the Contribution of this paragraph
 ```
 	gayhub 20180220 20180801
 ```
