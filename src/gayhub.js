@@ -51,6 +51,6 @@ function commit(level, commitDate) {
 }
 
 function push() {
-  //spawn.sync('git', ['push', '-u', 'origin', 'master'], {stdio: 'inherit'})
+  spawn.sync('git', ['push', '-u', 'origin', 'master'], {stdio: 'inherit'})
   console.log('\n\u001b[32mCongratulations!!\u001b[39m')
 }
