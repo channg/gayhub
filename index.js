@@ -1,4 +1,4 @@
-
+#!/usr/bin/env node
 var program = require('commander')
 let {gayhub} = require('./src/gayhub')
 

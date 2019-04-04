@@ -9,6 +9,7 @@ module.exports = {
     fse.ensureFileSync(Path.resolve(process.cwd(),'.gayhub'))
   },
   randompercentum(count){
+
     let n = Math.round(Math.random()*100)
     return n < count
   },
