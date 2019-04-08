@@ -16,7 +16,7 @@ module.exports = {
     } else if (startDate && !endDate) {
       //only startDate
       commit(0, startDate)
-    }else if(startDate && !endDate){
+    }else if(startDate && endDate){
       gaygaygay(startDate, endDate, level, multiplier)
     }
     push()
