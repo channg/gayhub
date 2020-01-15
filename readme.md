@@ -18,7 +18,7 @@ or
 ```
 ###  And then you're going to have a nice Contribution wall🎉🎉🎉🎉🎉
 
-![](https://ws3.sinaimg.cn/large/005BYqpggy1g1qfs0mapuj30x4074gnk.jpg)
+![](https://i.loli.net/2020/01/15/c4Yu8HWFsa9O3AP.png)
 
 
 ### api
